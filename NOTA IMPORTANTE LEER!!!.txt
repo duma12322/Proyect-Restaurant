@@ -1,0 +1,7 @@
+Los datos del administrador para ingresar al sistema son:
+correo: anais.asdm@gmail.com
+password: 123
+
+Los datos del asistente para ingresar al sistema son:
+correo: dunsuarez.ma@gmail.com
+password: 123
